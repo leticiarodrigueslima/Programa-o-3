@@ -11,7 +11,7 @@ class produto{
 
     }
 }
-echo "Exibindo informações do produto: <br>";
+echo "Exibição das informações do produto: <br>";
 
 $produto1 = new produto();
 $produto1->nome = "Produto 1";
